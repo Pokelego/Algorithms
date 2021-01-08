@@ -1,7 +1,7 @@
 """
 Binary search is an effective algorithm for finding an item in a sorted list
 This is done by repeadedly dividing the list in half until the item is found 
-Runs in logarthmic time O(log n) where n is the size of the array
+Time Complexity is O(log n)
 
 """
 
