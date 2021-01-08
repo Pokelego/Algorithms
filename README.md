@@ -5,3 +5,6 @@ This repo is for me to learn algorithms through implementing them myself
 ## Implemented so far:
 ### Searching Algorithms:
    -Binary Search
+
+### Sorting Algorithms:
+   -Selection Sort
