@@ -1,5 +1,5 @@
 """
-Selection sort is an algorithm which steps through the array and if an elements is out of order, swap elements
+Bubble sort is an algorithm which steps through the array and if an elements is out of order, swap elements
 
 Time Complexity is O(n^2)
 
