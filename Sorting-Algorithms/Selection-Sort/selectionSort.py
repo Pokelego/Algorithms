@@ -5,7 +5,7 @@ Time Complexity is O(n^2)
 
 """
 
-def selection_sort(array):
+def selectionSort(array):
    for i in range(len(array)):
       min_index = i
       for j in range(i+1, len(array)):
