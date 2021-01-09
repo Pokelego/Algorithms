@@ -8,4 +8,5 @@ This repo is for me to learn algorithms through implementing them myself
 
 ### Sorting Algorithms:
    -Selection Sort\
-   -Bubble Sort
+   -Bubble Sort\
+   -Insertion Sort
