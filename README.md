@@ -10,4 +10,5 @@ This repo is for me to learn algorithms through implementing them myself
    -Selection Sort\
    -Bubble Sort\
    -Insertion Sort\
-   -Merge Sort
+   -Merge Sort\
+   -Quick Sort
