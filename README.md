@@ -8,7 +8,7 @@ This repo is for me to learn data structures and algorithms through implementing
   * Stack
   * Heap
   * Singly Linked List
-  * Doubly Linked Lis
+  * Doubly Linked List
   
 ### Trees:
   * Binary Search Tree
