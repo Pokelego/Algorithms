@@ -4,14 +4,14 @@ This repo is for me to learn data structures and algorithms through implementing
 
 ## Data Structures Implemented so far:
 ### Lists:
-  * Queue\
-  * Stack\
-  * Heap\
-  * Singly Linked List\
-  * Doubly Linked List
+  * Queue
+  * Stack
+  * Heap
+  * Singly Linked List
+  * Doubly Linked Lis
   
 ### Trees:
-  * Binary Search Tree\
+  * Binary Search Tree
   * AVL Tree
 
 
