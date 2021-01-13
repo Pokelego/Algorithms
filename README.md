@@ -6,7 +6,7 @@ This repo is for me to learn data structures and algorithms through implementing
 ### Lists:
   * Queue
   * Stack
-  * Heap
+  * Min Heap
   * Singly Linked List
   * Doubly Linked List
   
