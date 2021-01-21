@@ -37,6 +37,7 @@ class DoublyLinkedList:
    
    def display(self):
       last = None
+      node = self.head
       # Beginning to end
       while node is not None:
          print(node.data)
