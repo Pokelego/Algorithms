@@ -28,8 +28,3 @@ def countingSort(array):
       i -= 1
    for i in range(0, size):
       array[i] = out[i]
-   
-
-test = [11, 42, 51, 17, 3, 7, 1]
-countingSort(test)
-print(test)
