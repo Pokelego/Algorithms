@@ -1,5 +1,5 @@
 """
-Selection sort is an algorithm which can be thought of as a more efficient insertion sort because
+Shell sort is an algorithm which can be thought of as a more efficient insertion sort because
 elements a distance apart are being compared rather than adjacent
 
 Time Complexity is O(n log^2 n)
