@@ -20,8 +20,10 @@ This repo is for me to learn data structures and algorithms through implementing
 * Binary Search
 
 ### Sorting Algorithms:
-   * Selection Sort
-   * Bubble Sort
-   * Insertion Sort
-   * Merge Sort
-   * Quick Sort
+* Selection Sort
+* Bubble Sort
+* Insertion Sort
+* Merge Sort
+* Quick Sort
+* Counting Sort
+* Shell Sort
