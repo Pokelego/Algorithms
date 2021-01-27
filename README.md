@@ -16,6 +16,13 @@ This repo is for me to learn data structures and algorithms through implementing
 
 
 ## Algorithms Implemented so far:
+### Numeric Algorithms:
+* Factorial
+* Fibonacci
+* Greatest Common Denominator
+* Prime Numbers
+* To Binary
+
 ### Searching Algorithms:
 * Binary Search
 
