@@ -1,6 +1,9 @@
 """Calculates the Fibonacci sequence of a given number"""
+memFib = {0:0, 1:1}
+
 
 def fib(n):
-   if n < 2:
-      return n
-   return fib(n-1) + fib(n-2)
+   if n not in memFib:
+      memFib[n] = fib(n-1) + fib(n-2)
+   return memFib[n]
+
